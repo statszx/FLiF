@@ -1,4 +1,4 @@
-# The R codes for simulation studies and real data analysis in the manuscript entitled "Functional Linear Models with Latent Factors".
+# The R codes for numerical analysis in the manuscript entitled "Functional Linear Models with Latent Factors".
 ###########################################################
 
 **This project is currently in preparation and will be available soon. Thank you for your patience!**
