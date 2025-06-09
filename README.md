@@ -1,4 +1,4 @@
-The R codes for simulation studies and real data analysis in the manuscript entitled "Functional Linear Models with Latent Factors".
+# The R codes for simulation studies and real data analysis in the manuscript entitled "Functional Linear Models with Latent Factors".
 ###########################################################
 
 FLiF_est.R: the R code used to calculate the estimation for the parameters of the functional linear regression with iterative fixed effects(FLiF). The initial output is used as the starting point of the iteration algorithm for computing the estimations of the proposed method.
